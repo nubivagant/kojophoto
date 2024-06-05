@@ -1,0 +1,32 @@
+---
+layout: layouts/page.njk
+section: page
+permalink: "/about.html"
+---
+<article>
+
+  <header class="pb--4">
+
+    <div>
+
+      <h1>Hello, I'm Kurtis Johnson</h1>
+      <h2>I'm a photographer, strategy consultant, basketball coach and foodie, but mostly a family man and eternal optimist.</h2>
+
+    </div>
+
+  </header>
+
+  <section>
+
+    {{ layoutContent | safe }}
+
+      <p>Whether it's tinkering with one of my Mum's old film cameras that I'd saved from dust from her shelves, or embarking on the endless charity shop search for the perfect lens for my latest digital camera, I've had a camera in hand for as long as I can remember.</p>
+
+There's something magic about the ability of a photograph to tell a story. I've always thought of it as a little bit of human magic; giving us the superpower in being able to freeze time and preserve memories for now and forever.
+
+  </section>
+
+</article>
+
+{# Gets appended to <head> during build #}
+{# {% include "components/opengraph.njk" %} #}
