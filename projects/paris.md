@@ -6,7 +6,7 @@ description: |
 year: 2023
 position: 2
 images:
-  - src: /assets/uploads/DSCF8204.jpg
+  - src: /assets/uploads/DSCF8205.jpg
     caption: Light on a Parisien street
   - src: /assets/uploads/DSCF8150.jpg
     caption: Hotel lamp detail
