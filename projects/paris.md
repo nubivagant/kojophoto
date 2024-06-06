@@ -10,7 +10,7 @@ images:
     caption: Light on a Parisien street
   - src: /assets/uploads/DSCF8150.JPG
     caption: Hotel lamp detail
-  - src: /assets/uploads/orangerie.JPG
+  - src: /assets/uploads/orangerie.jpg
     caption: Gravel garden in front of the Orangerie gallery
   - src: /assets/uploads/DSCF8213.JPG
     caption: Moulin Rouge front elevation
