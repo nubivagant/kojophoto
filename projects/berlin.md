@@ -14,7 +14,7 @@ images:
     caption: Detail inside Berliner Dome
   - src: /assets/uploads/berlin-4.jpg
     caption: Underpass in Berlin
-  - src: /assets/uploads/DSCF9291.JPG
+  - src: /assets/uploads/DSCF9299.JPG
     caption: The view from Berliner Dome  
   - src: /assets/uploads/berlin-6.jpg
     caption: Alexanderplatz,Berlin
