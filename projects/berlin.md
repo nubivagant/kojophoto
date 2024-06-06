@@ -14,13 +14,13 @@ images:
     caption: Detail inside Berliner Dome
   - src: /assets/uploads/berlin-4.jpg
     caption: Underpass in Berlin
-  - src: /assets/uploads/DSCF9291.jpg
+  - src: /assets/uploads/DSCF9291.JPG
     caption: View from Berliner Dome  
   - src: /assets/uploads/berlin-6.jpg
     caption: Alexanderplatz,Berlin
   - src: /assets/uploads/berlin.jpg
     caption: Train lighting  
-  - src: /assets/uploads/DSCF0841.jpg
+  - src: /assets/uploads/DSCF0841.JPG
     caption: Photobooth, Berlin  
 date: 2023-11-09T18:04:14.662Z
 ---
