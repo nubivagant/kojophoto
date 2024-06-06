@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Paris photoessay
+title: A Parisien photo essay
 description: |
   Images captured during a trip to Paris
 year: 2023
