@@ -2,7 +2,7 @@
 draft: false
 title: Berlin
 description: |
-  A photo essay for the city of Berlin
+  A photo essay from the city of Berlin, Germany
 year: 2022
 position: 1
 images:
@@ -13,7 +13,15 @@ images:
   - src: /assets/uploads/berlin-3.jpg
     caption: Detail inside Berliner Dome
   - src: /assets/uploads/berlin-4.jpg
-    caption: Underpass in Berlin  
+    caption: Underpass in Berlin
+  - src: /assets/uploads/DSCF9291.jpg
+    caption: View from Berliner Dome  
+  - src: /assets/uploads/berlin-6.jpg
+    caption: Alexanderplatz,Berlin
+  - src: /assets/uploads/berlin.jpg
+    caption: Train lighting  
+  - src: /assets/uploads/DSCF0841.jpg
+    caption: Photobooth, Berlin  
 date: 2023-11-09T18:04:14.662Z
 ---
 Part of a city photowalk series
