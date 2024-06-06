@@ -9,7 +9,10 @@ metadata:
   site_subtitle_2: UK based photographer – available for commissions
   # Home page description, accepts markdown
   site_description: >
-    Halide is a customizable Jamstack portfolio website theme designed for photographers and still image creators. Read the docs at [github.com/danurbanowicz/halide](https://github.com/danurbanowicz/halide)
+
+      Hello, I'm Kurtis Johnson.
+      I'm a photographer, strategy consultant, basketball coach and foodie, but mostly a family man and eternal optimist.
+
   # footer contact email
   site_email: hello@kurtisojohnson.com
   # footer social link (the social title is defined in the i18n section)
@@ -26,7 +29,7 @@ metadata:
     site_title: kojo.photo - photography portfolio
     # meta description
     site_description: >-
-      A customizable, minimalist portfolio website designed for photographers and still image creators.
+      Photography portfolio – Kurtis Johnson | kojo.photo
     # Adds a noindex <meta> tag on all site pages, be careful y'all!
     # Instead you can block indexing per-project with no_index: true
     no_index: false
